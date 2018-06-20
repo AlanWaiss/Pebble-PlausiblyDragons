@@ -1,0 +1,111 @@
+{
+    "author": "Plausible Nonsense",
+    "dependencies": {},
+    "keywords": [],
+    "name": "plausibly-dragons",
+    "pebble": {
+        "capabilities": [
+            "location"
+        ],
+        "displayName": "Plausibly Dragons",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "KEY_CON": 2,
+            "KEY_MAX": 1,
+            "KEY_MESSAGE": 9,
+            "KEY_MIN": 0,
+            "KEY_PREC": 3,
+            "KEY_TOM": 4,
+            "KEY_TOM_CON": 7,
+            "KEY_TOM_MAX": 6,
+            "KEY_TOM_MIN": 5,
+            "KEY_TOM_PREC": 8
+        },
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/9.png",
+                    "name": "IMAGE_9",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/8.png",
+                    "name": "IMAGE_8",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/7.png",
+                    "name": "IMAGE_7",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/6.png",
+                    "name": "IMAGE_6",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/5.png",
+                    "name": "IMAGE_5",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/4.png",
+                    "name": "IMAGE_4",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/3.png",
+                    "name": "IMAGE_3",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/2.png",
+                    "name": "IMAGE_2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/1.png",
+                    "name": "IMAGE_1",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/0.png",
+                    "name": "IMAGE_0",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/FONT_TEXT.ttf",
+                    "name": "FONT_TEXT_15",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/FONT_TEXT.ttf",
+                    "name": "FONT_TEXT_12",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "728f6b7a-b96f-41d6-87ca-a198df306962",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}
